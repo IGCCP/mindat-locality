@@ -4,7 +4,7 @@ Dynamically display the localities where the most minerals occur in [mindat.org]
 
 # How to use this project
 
-## 1. Download this project to your local computer 'Download ZIP'
+## 1. Download this project to your local computer `Download ZIP`
 
 ## 2. Unzip the file
 
@@ -12,7 +12,7 @@ Dynamically display the localities where the most minerals occur in [mindat.org]
 
 ### 3.1 Using VS Code Live Server Extension
 
-***Install Live Server Extension***: Open VS Code, go to the Extensions view (you can open it by clicking the square icon in the sidebar or pressing Ctrl+Shift+X), and search for "Live Server". Click "Install" to add the extension.
+***Install Live Server Extension***: Open VS Code, go to the Extensions view (you can open it by clicking the square icon in the sidebar or pressing `Ctrl+Shift+X`), and search for `Live Server`. Click `Install` to add the extension.
 
 ***Open Your Project***: Open your project folder in VS Code.
 
