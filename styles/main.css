@@ -1,0 +1,30 @@
+/* styles/main.css */
+html, body, #viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#sliderDiv input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  background: #FFF;
+  border: 2px solid #666;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-top: -7px;
+}
+
+#sliderDiv input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 4px;
+  cursor: pointer;
+  background: #CCC;
+  border-radius: 25px;
+}
+
+#sliderDiv .esri-slider__max {
+  display: none; /* 隐藏滑块右侧的值 */
+}
